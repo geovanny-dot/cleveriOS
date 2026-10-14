@@ -8,7 +8,8 @@
 import SwiftUI
 
 @main
-struct CleveriOSApp: App {
+struct CleverTapDemoApp: App {
+    @UIApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
     var body: some Scene {
         WindowGroup {
             ContentView()

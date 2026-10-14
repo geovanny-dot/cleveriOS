@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CleverTapAccountID</key>
+	<string>K78-955-W67Z</string>
+	<key>CleverTapRegion</key>
+	<string>us1</string>
+	<key>CleverTapToken</key>
+	<string>55c-ba3</string>
+	<key>CleverTapInAppNotifs</key>
+	<true/>
+	<key>CleverTapPasscode</key>
+	<string>CFE-TEZ-YEEL</string>
+</dict>
+</plist>
